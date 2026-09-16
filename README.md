@@ -1,4 +1,4 @@
-# SPII 3B: Tool Box of Shared Tools
+# SPII 3B: Tool for: Tool Box of Shared Tools
 
 Feedback and issue tracker for SPII deliverable 3B, Tool Box of Shared Tools, part of the [SPII overview](https://surf-ori.github.io/spii-overview/).
 
