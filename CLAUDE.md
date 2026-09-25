@@ -4,7 +4,7 @@ Agent context for working on the `spii-3b-toolbox-shared-tools` repository.
 
 ## What this repo is
 
-The feedback and issue tracker for SPII deliverable 3B, Tool Box of Shared Tools. It holds no
+The feedback and issue tracker for SPII deliverable 3B, Toolbox of shared components. It holds no
 application code: its content is community feedback issues, this tracker's own configuration,
 and these context files. The deliverable's actual content and status live in the reference-model
 source document and on the [spii-overview](https://github.com/surf-ori/spii-overview) page, not
